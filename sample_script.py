@@ -1,5 +1,5 @@
 
-#Sample script
+#Sample script for change events
 import requests
 import json
 from datetime import datetime
