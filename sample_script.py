@@ -1,4 +1,5 @@
-#Here is a sample pythong script to trigger change events
+
+#Sample script
 import requests
 import json
 from datetime import datetime
