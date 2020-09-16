@@ -25,9 +25,26 @@ payload = {
       "timestamp": timestamp,
     "custom_details": {
       
+    },
+
+  },
+  "links": [
+    {
+      "href": "https://github.com/pdt-demo/recommendations-engine/compare/746a90f2ac07...cf6b51187e08",
+      "text": "View on GitHub"
+    },
+    {
+      "href": "https://github.com/pdt-demo/recommendations-engine",
+      "text": "Repo"
+    },
+    {
+      "href": "https://github.com/pdt-demo",
+      "text": "Sender - valramirez"
     }
-  }
+
+  ]
 }
+
 
 
 payload2 = { 
